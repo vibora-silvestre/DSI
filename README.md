@@ -11,7 +11,7 @@ Condições if/elif
 ✅ Execução do programa é simples, basta inserir nome, idade e nota de avaliação entre 1 a 3
 
 
-#Calculadora de Consumo Elétrico
+# Calculadora de Consumo Elétrico
 
 📝 Objetivo:
 Programa criado em python para calcular o consumo elétrico mensal e o valor gasto.
